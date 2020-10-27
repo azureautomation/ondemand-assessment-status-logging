@@ -1,0 +1,20 @@
+{
+    "Author": "RAP as a Service Team",
+    "ContentSize": 21610,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/ondemand-assessment-status-logging/master/Assessment-status-logging-V1.2.ps1",
+    "DownloadCount": 507,
+    "Id": "Assessment-Status-Logging-60c4a14e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 286,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2019-8-12T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The Assessment-status-logging script provides insight in where the On-Demand assessment is with data collection or analysis.",
+    "Title": "On-Demand Assessment Status Logging",
+    "UpdatedDate": "2019-8-12T00:00:00",
+    "Url": "https://github.com/azureautomation/ondemand-assessment-status-logging",
+    "UserTags": "Monitoring, assessment, RAP as a Service"
+}
